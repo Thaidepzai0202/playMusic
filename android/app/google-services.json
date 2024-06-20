@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "331595064262",
+    "firebase_url": "https://quanlydaotao-46f1c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quanlydaotao-46f1c",
+    "storage_bucket": "quanlydaotao-46f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331595064262:android:1b20b4f75f7d1ffbfe48c7",
+        "android_client_info": {
+          "package_name": "com.example.internshipmigi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDES-LS2UDnhq9thWsyvO-O52ZyNCqCRIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331595064262:android:b429d8b87d58a607fe48c7",
+        "android_client_info": {
+          "package_name": "com.example.quanlydaotao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDES-LS2UDnhq9thWsyvO-O52ZyNCqCRIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
